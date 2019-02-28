@@ -1,0 +1,8 @@
+Jovik;MD;1234;Visa
+Jovik;MD;1234;Visa
+Madina;MG;9877;MasterCard
+Yuliya;MC;12345456;MasterCard
+Otabek;MA;9876;MasterCard
+Lilya;ME;5690;MasterCard
+Navruz;MC;569089;MasterCard
+Bekhzod Aliev;MD;8537;Visa
